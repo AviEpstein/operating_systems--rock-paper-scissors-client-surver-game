@@ -1,0 +1,14 @@
+﻿  SocketServer.c
+c:\users\avrahame1\desktop\group81_ex4\group81_ex4_server\socketserver.c(176): warning C4098: 'MainServer': 'void' function returning a value
+c:\users\avrahame1\desktop\group81_ex4\group81_ex4_server\socketserver.c(182): warning C4098: 'MainServer': 'void' function returning a value
+c:\users\avrahame1\desktop\group81_ex4\group81_ex4_server\socketserver.c(202): warning C4098: 'MainServer': 'void' function returning a value
+c:\users\avrahame1\desktop\group81_ex4\group81_ex4_server\socketserver.c(215): warning C4098: 'MainServer': 'void' function returning a value
+c:\users\avrahame1\desktop\group81_ex4\group81_ex4_server\socketserver.c(223): warning C4098: 'MainServer': 'void' function returning a value
+c:\users\avrahame1\desktop\group81_ex4\group81_ex4_server\socketserver.c(348): warning C4090: 'function': different 'const' qualifiers
+c:\users\avrahame1\desktop\group81_ex4\group81_ex4_server\socketserver.c(349): warning C4090: 'function': different 'const' qualifiers
+c:\users\avrahame1\desktop\group81_ex4\group81_ex4_server\socketserver.c(469): warning C4013: 'ReadFromFile' undefined; assuming extern returning int
+c:\users\avrahame1\desktop\group81_ex4\group81_ex4_server\socketserver.c(559): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\avrahame1\desktop\group81_ex4\group81_ex4_server\socketserver.c(560): warning C4087: 'rand': declared with 'void' parameter list
+c:\users\avrahame1\desktop\group81_ex4\group81_ex4_server\socketserver.c(457): warning C4101: 'retval': unreferenced local variable
+c:\users\avrahame1\desktop\group81_ex4\group81_ex4_server\socketserver.c(574): warning C4101: 'retval': unreferenced local variable
+  group81_ex4_server.vcxproj -> C:\Users\avrahame1\Desktop\group81_ex4\Debug\group81_ex4_server.exe

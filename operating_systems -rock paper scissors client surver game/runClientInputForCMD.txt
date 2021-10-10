@@ -1,0 +1,22 @@
+
+cd Desktop\group81_ex4
+
+c:
+cd Users\avrahame1\Desktop\group81_ex4
+Debug\group81_ex4_server.exe 8888
+
+cd Desktop\group81_ex4
+
+c:
+cd Users\avrahame1\Desktop\group81_ex4
+Debug\group81_ex4_client.exe 127.0.0.1 8888 Sheldon
+
+
+cd Desktop\group81_ex4
+
+c:
+cd Users\avrahame1\Desktop\group81_ex4
+Debug\group81_ex4_client.exe 127.0.0.1 8888 Avi
+
+
+if we are not in c:\> directory : right command "c:"

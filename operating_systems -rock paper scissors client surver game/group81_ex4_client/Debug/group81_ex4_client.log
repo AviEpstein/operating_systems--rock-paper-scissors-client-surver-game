@@ -1,0 +1,7 @@
+﻿  SocketClient.c
+c:\users\avrahame1\desktop\group81_ex4\group81_ex4_client\socketclient.c(211): warning C4102: 'cleen_up_recive_thread': unreferenced label
+c:\users\avrahame1\desktop\group81_ex4\group81_ex4_client\socketclient.c(81): warning C4101: 'SendStr': unreferenced local variable
+c:\users\avrahame1\desktop\group81_ex4\group81_ex4_client\socketclient.c(82): warning C4101: 'SendRes': unreferenced local variable
+c:\users\avrahame1\desktop\group81_ex4\group81_ex4_client\socketclient.c(417): warning C4098: 'MainClient': 'void' function returning a value
+c:\users\avrahame1\desktop\group81_ex4\group81_ex4_client\socketclient.c(399): warning C4715: 'SendDataThread': not all control paths return a value
+  group81_ex4_client.vcxproj -> C:\Users\avrahame1\Desktop\group81_ex4\Debug\group81_ex4_client.exe
